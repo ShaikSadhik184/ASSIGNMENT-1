@@ -1,0 +1,2 @@
+x="sadhik"
+print(x)
